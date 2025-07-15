@@ -1,5 +1,4 @@
 📊 Financial Performance Dashboard (2022–2024)
-
 📁 Project Overview
 This Power BI dashboard provides a comprehensive financial performance analysis for the years 2022–2024. It is designed to help stakeholders track key financial metrics such as Total Revenue, Net Profit, COGS, Expenses, and Profit Margins, with deep insights into departmental performance, regional trends, and category-wise expenses.
 
